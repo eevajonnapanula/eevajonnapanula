@@ -25,3 +25,7 @@ export const Developer = {
     }
 }
 ```
+
+
+
+:point_down: Here are some projects I have contributed to: :point_down: 
