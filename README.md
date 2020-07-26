@@ -15,12 +15,25 @@ export const Developer = {
         topics: [
             "accessibility",
             "diversity & inclusion",
-            "front end"
+            "front end-related topics",
         ],
         naturalLanguages: [
             "Finnish",
             "English",
             "Russian",
+        ],
+        learning: [
+            "accessibility",
+            "Next JS",
+            "Cypress",
+            "Clojure",
+        ]
+    }
+    lifeOutsideProgramming: {
+        hobbies: [
+            "ultimate frisbee",
+            "kayaking",
+            "knitting",
         ]
     }
 }
