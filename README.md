@@ -28,7 +28,7 @@ export const Developer = {
             "Cypress",
             "Clojure",
         ]
-    }
+    },
     lifeOutsideProgramming: {
         hobbies: [
             "ultimate frisbee",
