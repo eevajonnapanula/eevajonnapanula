@@ -28,4 +28,4 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: Actions <github-actions[bot]@users.noreply.github.com>
-          commit_message: Update cat
+          commit_message: "Hourly update :cat:"
