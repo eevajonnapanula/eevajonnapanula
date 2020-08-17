@@ -1,0 +1,33 @@
+{
+  "name": "eevajonnapanula",
+  "version": "1.0.0",
+  "description": "Profile readme for eevajonnapanula",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eevajonnapanula/eevajonnapanula.git"
+  },
+  "keywords": [
+    "readme",
+    "profile"
+  ],
+  "author": "eevajonnapanula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eevajonnapanula/eevajonnapanula/issues"
+  },
+  "homepage": "https://github.com/eevajonnapanula/eevajonnapanula#readme",
+  "devDependencies": {
+    "@types/node": "^14.6.0",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@actions/github": "^4.0.0",
+    "axios": "^0.19.2",
+    "date-fns": "^2.15.0"
+  }
+}

@@ -1,0 +1,32 @@
+name: Update cat
+
+on:
+  schedule:
+    - cron: "*/60 * * * *"
+  push:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set env vars
+        run: |
+          echo ::set-env name=REPOSITORY::${{ github.repository }}
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install node modules
+        run: npm install
+      - name: Update cat
+        run: npm start
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
+          commit_author: Actions <github-actions[bot]@users.noreply.github.com>
+          commit_message: Update cat
