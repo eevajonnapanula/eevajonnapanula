@@ -1,31 +1,6 @@
 # Heippa! :wave: (Hello in Finnish :finland:)
 
-```javascript
-export const Developer = {
-  name: "Eevis",
-  pronouns: "she/her",
-  title: "Software developer",
-  employer: "Futurice",
-  knowledgeAndInterests: {
-    programmingLanguagesAndLibraries: [
-      "JavaScript",
-      "GraphQL",
-      "React",
-      "TypeScript",
-    ],
-    topics: [
-      "accessibility",
-      "diversity & inclusion",
-      "front end-related topics",
-    ],
-    naturalLanguages: ["Finnish", "English", "Russian"],
-    learning: ["accessibility", "Next JS", "Cypress", "Clojure"],
-  },
-  lifeOutsideProgramming: {
-    hobbies: ["ultimate frisbee", "kayaking", "knitting"],
-  },
-};
-```
+I'm a software developer, who loves things like CSS, front end development, accessibility and GraphQL. And cats.
 
 <!-- Cat Widget Start -->
 <!-- Cat Widget End -->
