@@ -6,27 +6,30 @@ on:
 jobs:
   pet:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, 'pet-')
-
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js
+        if: startsWith(github.event.issue.title, 'pet-')
         uses: actions/setup-node@v1
         with:
           node-version: "12.x"
       - name: Install node modules
+        if: startsWith(github.event.issue.title, 'pet-')
         run: npm install
       - name: Set env vars
+        if: startsWith(github.event.issue.title, 'pet-')
         run: |
           echo ::set-env name=REPOSITORY::${{ github.repository }}
           echo ::set-env name=EVENT_ISSUE_NUMBER::${{ github.event.issue.number }}
           echo ::set-env name=EVENT_USER_LOGIN::${{ github.event.issue.user.login }}
       - name: Update cat
+        if: startsWith(github.event.issue.title, 'pet-')
         run: npm start
         env:
           API_KEY: ${{ secrets.API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: stefanzweifel/git-auto-commit-action@v4
+        if: startsWith(github.event.issue.title, 'pet-')
         with:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
