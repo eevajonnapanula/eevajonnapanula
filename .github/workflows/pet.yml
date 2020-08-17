@@ -34,4 +34,4 @@ jobs:
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           commit_author: Actions <github-actions[bot]@users.noreply.github.com>
-          commit_message: ${{ github.event.issue.user.login }} petted the cat
+          commit_message: "@${{ github.event.issue.user.login }} petted the cat"
