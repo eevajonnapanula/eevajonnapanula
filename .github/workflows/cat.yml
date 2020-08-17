@@ -3,7 +3,6 @@ name: Update cat
 on:
   schedule:
     - cron: "*/60 * * * *"
-  push:
 jobs:
   update:
     runs-on: ubuntu-latest
