@@ -9,6 +9,7 @@ export const getLastPersonTable = (issues) => `Last times she's been petted:
 Date | User
 ------- | ---------
  ${issues
+   .filter((issue) => issue.title === "pet-cat")
    .map(
      (issue) =>
        `${format(
