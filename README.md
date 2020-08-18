@@ -12,9 +12,9 @@ There's a (virtual) cat living in this repo! Right now she's having a friend ove
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: 
   
-  Happiness level: 70/100
+  Happiness level: 80/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -22,11 +22,11 @@ There's a (virtual) cat living in this repo! Right now she's having a friend ove
 
 Date | User
 ------- | ---------
- 18/08/2020 | [@magdapoppins](https://github.com/magdapoppins)
+ 18/08/2020 | [@HannamariH](https://github.com/HannamariH)
+18/08/2020 | [@magdapoppins](https://github.com/magdapoppins)
 18/08/2020 | [@laojala](https://github.com/laojala)
 18/08/2020 | [@Amiliini](https://github.com/Amiliini)
 18/08/2020 | [@jadolg](https://github.com/jadolg)
-18/08/2020 | [@chlif](https://github.com/chlif)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
