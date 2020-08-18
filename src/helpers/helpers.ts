@@ -32,7 +32,8 @@ There's a (virtual) cat living in this repo! Right now she's ${statusText}
 ${image}
   
 ${happinessText}
-  
+
+*The pictures are from [the Cat Api](https://thecatapi.com/)*
 <!-- Cat Widget End -->`;
 
 export const getProgress = (times: number) =>
