@@ -5,16 +5,16 @@ I'm a software developer, who loves things like CSS, front end development, acce
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's guarding
+There's a (virtual) cat living in this repo! Right now she's plotting world domination
 
-<img src=https://cdn2.thecatapi.com/images/b1a.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/a6o.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: 
+  :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: :sparkling_heart: 
   
-  Happiness level: 95/100
+  Happiness level: 100/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -22,11 +22,11 @@ There's a (virtual) cat living in this repo! Right now she's guarding
 
 Date | User
 ------- | ---------
- 18/08/2020 | [@kachaMukabe](https://github.com/kachaMukabe)
+ 18/08/2020 | [@lauravuo](https://github.com/lauravuo)
+18/08/2020 | [@kachaMukabe](https://github.com/kachaMukabe)
 18/08/2020 | [@jjennas](https://github.com/jjennas)
 18/08/2020 | [@HannamariH](https://github.com/HannamariH)
 18/08/2020 | [@magdapoppins](https://github.com/magdapoppins)
-18/08/2020 | [@laojala](https://github.com/laojala)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
