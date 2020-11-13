@@ -12,9 +12,9 @@ There's a (virtual) cat living in this repo! Right now she's hiding
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 10/100
+  Happiness level: 20/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -22,10 +22,10 @@ There's a (virtual) cat living in this repo! Right now she's hiding
 
 Date | User
 ------- | ---------
- 08/11/2020 | [@sjarva](https://github.com/sjarva)
+ 13/11/2020 | [@jondeaves](https://github.com/jondeaves)
+08/11/2020 | [@sjarva](https://github.com/sjarva)
 04/10/2020 | [@MaximeKoitsalu](https://github.com/MaximeKoitsalu)
 02/10/2020 | [@MaximeKoitsalu](https://github.com/MaximeKoitsalu)
-17/09/2020 | [@RaisinTen](https://github.com/RaisinTen)
 17/09/2020 | [@RaisinTen](https://github.com/RaisinTen)
   
 
