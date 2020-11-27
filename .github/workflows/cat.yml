@@ -6,9 +6,11 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
+      - name: Set env vars	
+        run: |	
+          echo "REPOSITORY=${{ github.repository }}" >> $GITHUB_ENV
       - name: Use Node.js
         uses: actions/setup-node@v1
         with:
