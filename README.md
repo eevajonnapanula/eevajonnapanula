@@ -5,9 +5,9 @@ I'm a software developer, who loves things like CSS, front end development, acce
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's plotting world domination
+There's a (virtual) cat living in this repo! Right now she's craving for lemons
 
-<img src=https://cdn2.thecatapi.com/images/a6o.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/VXbGZUzX1.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
@@ -22,11 +22,11 @@ There's a (virtual) cat living in this repo! Right now she's plotting world domi
 
 Date | User
 ------- | ---------
- 11/10/2021 | [@Laurentus](https://github.com/Laurentus)
+ 20/10/2021 | [@sjarva](https://github.com/sjarva)
+11/10/2021 | [@Laurentus](https://github.com/Laurentus)
 16/09/2021 | [@alvarlagerlof](https://github.com/alvarlagerlof)
 29/07/2021 | [@deltd3v](https://github.com/deltd3v)
 22/07/2021 | [@iosonja](https://github.com/iosonja)
-16/07/2021 | [@pfernandezr](https://github.com/pfernandezr)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
