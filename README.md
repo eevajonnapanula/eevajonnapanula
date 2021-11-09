@@ -1,6 +1,12 @@
 # Heippa! :wave: (Hello in Finnish :finland:)
 
-I'm a software developer, who loves things like CSS, front end development, accessibility and GraphQL. And cats.
+Short about me:
+- I'm software developer and accessibility specialist
+- I work at Oura Health
+- I blog and speak at meetups and conferences
+- When not coding or sharing my knowledge, I play ultimate frisbee and explore the world by foot and a kayak.
+
+You can find more about me from [my website.](https://eevis.codes)
 
 <!-- Cat Widget Start -->
 ## Mau :cat:
