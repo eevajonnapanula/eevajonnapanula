@@ -11,16 +11,16 @@ You can find more about me from [my website.](https://eevis.codes)
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's craving for lemons
+There's a (virtual) cat living in this repo! Right now she's sleeping
 
-<img src=https://cdn2.thecatapi.com/images/VXbGZUzX1.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/b7f.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 10/100
+  Happiness level: 20/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -28,11 +28,11 @@ There's a (virtual) cat living in this repo! Right now she's craving for lemons
 
 Date | User
 ------- | ---------
- 25/10/2021 | [@sjarva](https://github.com/sjarva)
+ 29/11/2021 | [@dontskipnine](https://github.com/dontskipnine)
+25/10/2021 | [@sjarva](https://github.com/sjarva)
 20/10/2021 | [@sjarva](https://github.com/sjarva)
 11/10/2021 | [@Laurentus](https://github.com/Laurentus)
 16/09/2021 | [@alvarlagerlof](https://github.com/alvarlagerlof)
-29/07/2021 | [@deltd3v](https://github.com/deltd3v)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
