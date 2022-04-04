@@ -11,16 +11,16 @@ You can find more about me from [my website.](https://eevis.codes)
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's sleeping
+There's a (virtual) cat living in this repo! Right now she's having a friend over
 
-<img src=https://cdn2.thecatapi.com/images/b7f.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/cc9.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 10/100
+  Happiness level: 20/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -28,11 +28,11 @@ There's a (virtual) cat living in this repo! Right now she's sleeping
 
 Date | User
 ------- | ---------
- 09/03/2022 | [@ahwelgemoed](https://github.com/ahwelgemoed)
+ 04/04/2022 | [@late-e](https://github.com/late-e)
+09/03/2022 | [@ahwelgemoed](https://github.com/ahwelgemoed)
 19/01/2022 | [@NicolasOmar](https://github.com/NicolasOmar)
 29/11/2021 | [@thezacharytaylor](https://github.com/thezacharytaylor)
 25/10/2021 | [@sjarva](https://github.com/sjarva)
-20/10/2021 | [@sjarva](https://github.com/sjarva)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
