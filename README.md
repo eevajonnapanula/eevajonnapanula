@@ -11,9 +11,9 @@ You can find more about me from [my website.](https://eevis.codes)
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's craving for lemons
+There's a (virtual) cat living in this repo! Right now she's having fun with boxes
 
-<img src=https://cdn2.thecatapi.com/images/VXbGZUzX1.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/2oo.gif alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
