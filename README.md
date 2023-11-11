@@ -11,16 +11,16 @@ You can find more about me from [my website.](https://eevis.codes)
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's having fun with boxes
+There's a (virtual) cat living in this repo! Right now she's craving for lemons
 
-<img src=https://cdn2.thecatapi.com/images/2oo.gif alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/VXbGZUzX1.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 10/100
+  Happiness level: 20/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -28,11 +28,11 @@ There's a (virtual) cat living in this repo! Right now she's having fun with box
 
 Date | User
 ------- | ---------
- 04/11/2023 | [@FabianSiffert1](https://github.com/FabianSiffert1)
+ 11/11/2023 | [@RosbaEve](https://github.com/RosbaEve)
+04/11/2023 | [@FabianSiffert1](https://github.com/FabianSiffert1)
 09/08/2023 | [@ElaFinIta](https://github.com/ElaFinIta)
 27/06/2023 | [@kookerboo](https://github.com/kookerboo)
 27/06/2023 | [@kookerboo](https://github.com/kookerboo)
-15/03/2023 | [@seedlit](https://github.com/seedlit)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
