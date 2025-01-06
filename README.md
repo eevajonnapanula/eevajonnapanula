@@ -1,10 +1,10 @@
 # Heippa! :wave: (Hello in Finnish :finland:)
 
 Short about me:
-- I'm software developer and accessibility specialist
+- I'm Android developer and accessibility specialist
 - I work at Oura Health
 - I blog and speak at meetups and conferences
-- When not coding or sharing my knowledge, I play ultimate frisbee and explore the world by foot and a kayak.
+- When not coding or sharing my knowledge, I knit, do sports, and explore the world by foot and a kayak.
 
 You can find more about me from [my website.](https://eevis.codes)
 
