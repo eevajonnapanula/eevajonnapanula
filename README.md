@@ -11,16 +11,16 @@ You can find more about me from [my website.](https://eevis.codes)
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's plotting world domination
+There's a (virtual) cat living in this repo! Right now she's craving for lemons
 
-<img src=https://cdn2.thecatapi.com/images/a6o.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/VXbGZUzX1.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 10/100
+  Happiness level: 20/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -28,11 +28,11 @@ There's a (virtual) cat living in this repo! Right now she's plotting world domi
 
 Date | User
 ------- | ---------
- 30/12/2024 | [@kazvee](https://github.com/kazvee)
+ 18/02/2025 | [@waynebloom](https://github.com/waynebloom)
+30/12/2024 | [@kazvee](https://github.com/kazvee)
 07/12/2024 | [@nimisaya](https://github.com/nimisaya)
 30/09/2024 | [@Teknikaali](https://github.com/Teknikaali)
 05/09/2024 | [@kazvee](https://github.com/kazvee)
-06/08/2024 | [@ElaFinIta](https://github.com/ElaFinIta)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
