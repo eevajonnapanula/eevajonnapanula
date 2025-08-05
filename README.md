@@ -2,7 +2,7 @@
 
 Short about me:
 - I'm Android developer and accessibility specialist
-- I work at Oura Health
+- I'm a freelancer, so if you need help with mobile apps and/or accessibility, do send a message!
 - I blog and speak at meetups and conferences
 - When not coding or sharing my knowledge, I knit, do sports, and explore the world by foot and a kayak.
 
