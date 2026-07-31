@@ -18,9 +18,9 @@ There's a (virtual) cat living in this repo! Right now she's plotting world domi
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 20/100
+  Happiness level: 15/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -28,11 +28,11 @@ There's a (virtual) cat living in this repo! Right now she's plotting world domi
 
 Date | User
 ------- | ---------
- 09/03/2026 | [@AlfreMK](https://github.com/AlfreMK)
+ 30/07/2026 | [@RuvaS20](https://github.com/RuvaS20)
+09/03/2026 | [@AlfreMK](https://github.com/AlfreMK)
 21/11/2025 | [@madebydavid](https://github.com/madebydavid)
 13/09/2025 | [@Bovilas](https://github.com/Bovilas)
 11/09/2025 | [@madebydavid](https://github.com/madebydavid)
-14/07/2025 | [@ErinMax](https://github.com/ErinMax)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
