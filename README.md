@@ -11,16 +11,16 @@ You can find more about me from [my website.](https://eevis.codes)
 <!-- Cat Widget Start -->
 ## Mau :cat:
 
-There's a (virtual) cat living in this repo! Right now she's having relaxing holidays
+There's a (virtual) cat living in this repo! Right now she's plotting world domination
 
-<img src=https://cdn2.thecatapi.com/images/uTG1YFzJV.jpg alt="cat" width=300 />
+<img src=https://cdn2.thecatapi.com/images/a6o.jpg alt="cat" width=300 />
   
 ### Happiness
   She loves hooomans, and petting. This is how happy she is right now: 
   
-  :sparkling_heart: :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
+  :sparkling_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: :black_heart: 
   
-  Happiness level: 20/100
+  Happiness level: 15/100
    
   **If you want to pet her, you can do it by [clicking this link.](https://github.com/eevajonnapanula/eevajonnapanula/issues/new?title=pet-cat&body=Just+submit+the+issue+-+that%27s+all+you+have+to+do+%3Acat%3A)**
   
@@ -28,11 +28,11 @@ There's a (virtual) cat living in this repo! Right now she's having relaxing hol
 
 Date | User
 ------- | ---------
- 23/10/2026 | [@KhushiChandak04](https://github.com/KhushiChandak04)
+ 16/11/2026 | [@Yasaswini-ch](https://github.com/Yasaswini-ch)
+23/10/2026 | [@KhushiChandak04](https://github.com/KhushiChandak04)
 30/07/2026 | [@RuvaS20](https://github.com/RuvaS20)
 09/03/2026 | [@AlfreMK](https://github.com/AlfreMK)
 21/11/2025 | [@madebydavid](https://github.com/madebydavid)
-13/09/2025 | [@Bovilas](https://github.com/Bovilas)
   
 
 *The pictures are from [the Cat Api](https://thecatapi.com/)*
